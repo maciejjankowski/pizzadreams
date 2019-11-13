@@ -1,0 +1,71 @@
+<!-- This is a static file -->
+<!-- served from your routes in server.js -->
+
+<!-- You might want to try something fancier: -->
+<!-- html/nunjucks docs: http://mozilla.github.io/nunjucks/ -->
+<!-- jade: http://jade-lang.com/ -->
+<!-- haml: http://haml.info/tutorial.html -->
+<!-- hbs(handlebars): http://handlebarsjs.com/expressions.html -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to Gomix!</title>
+    <meta name="description" content="A cool thing made with Gomix">
+    <link id="favicon" rel="icon" href="https://gomix.com/favicon-app.ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/public/style.css">
+  </head>
+  <body>
+    <header>
+      <h1>
+        Pizza dreams
+      </h1>
+      <h2>
+        These dreams are made of cheese
+      </h2>
+      <p>
+        The idea behind this is simple - we all have some unfulfilled desires, yet little time to do them.
+        So we let you trade pizza for quality development time.
+      </p>
+    </header>
+
+    <main>
+      
+      
+      <section class="add-a-dream">
+      <p class="bold">Ohai!</p>
+      <p> What is your dream?<br><small>(Pay it with pizza™️)</small></p>
+      <form>
+        <input type="text" maxlength="100" placeholder="I will trade pizza for ...?"><br>
+        <input type="number" min="1" max="2000" name="qty">        
+        <button type="submit">🍕</button>
+      </form>
+      </section>
+      
+      <section class="dreams">
+        <ul id="dreams">
+          
+        </ul>
+      </section>
+      
+      <section class="">
+        
+      </section>
+      
+    </main>
+
+    <footer>
+      <a href="/how-it-works">How it works</a> | <a href="/contact">Contact</a> | <a href="/about">About</a>
+    </footer>
+
+    <!-- Your web-app is https, so your scripts need to be too -->
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"
+            integrity="sha256-gvQgAFzTH6trSrAWoH1iPo9Xc96QxSZ3feW6kem+O00="
+            crossorigin="anonymous"></script>
+    <script src="/public/client.js"></script>
+
+  </body>
+</html>
