@@ -32,6 +32,11 @@ def apply_kr_hello(response):
 def homepage():
     return render_template('index.html')
     
+    
+@app.route('/xyz')
+def db():
+    return os.environ['DATABASE_URL']
+    
 @app.route('/dreams', methods=['GET', 'POST'])
 def dreams():
   
