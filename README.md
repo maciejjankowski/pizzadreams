@@ -13,3 +13,4 @@
 5. Pitch deck - you can explain what are the key benefits of your project and you are ready to showcase your project to the investors
 6. Mockups - before implementing the application you prepare a rough sketch with most of the screens and you have the interaction flow
 7. Project's github page is in perfect shape: Project description, screenshots, technologies used, setup procedures, project management done on github project tab, knowledge base in the wiki
+8. Scope consulted before starting the project
