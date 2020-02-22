@@ -8,7 +8,7 @@
 * Real-life projects!
 * Beautiful 🧚‍♀️ PREMIUM 🧚‍♀️ design for free!
 * Work with a Professional Product Owner™️ 👨‍💻
-* Get free on Demo Day 🍕!
+* Get free 🍕 on Demo Day!
 * Boost your GitHub & LinkedIn with a cool project!
 * Get help with the business side of your project!
 
@@ -23,4 +23,8 @@
 7. Project's github page is in perfect shape: Project description, screenshots, technologies used, setup procedures, project management done on github project tab, knowledge base in the wiki
 8. Scope consulted before starting the project
 
-# [Available projects](https://github.com/maciejjankowski/learn-to-code/wiki/Pet-projects)
+
+
+# Available [[Projects]]
+
+
