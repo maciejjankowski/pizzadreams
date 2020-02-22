@@ -4,6 +4,14 @@
 3. Help mid-developer practice their communication, mentoring and code review skills
 4. Help kids, because helping kids is always good
 
+# Why it's cool
+* Real-life projects!
+* Beautiful 🧚‍♀️ PREMIUM 🧚‍♀️ design for free!
+* Work with a Professional Product Owner™️ 👨‍💻
+* Get free on Demo Day 🍕!
+* Boost your GitHub & LinkedIn with a cool project!
+* Get help with the business side of your project!
+
 
 # Requirements
 1. Weekly meetings: Demo with the Product Owner regarding progress and deliverables; with your Project Manager / Scrum Master: Grooming, Planning, Retro
