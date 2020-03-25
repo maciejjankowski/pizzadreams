@@ -20,12 +20,12 @@ Interested? Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLScD
 
 ### Shiny Booking
 ShinyBooking is a .NET / Angular Web Application Project to connect Conference Rooms Tenants with Conference Rooms Owners.
-Web Page: https://shinybooking.azurewebsites.net/ 
-Project Page: https://dev.azure.com/ShinyBooking/ShinyBooking 
+* Web Page: https://shinybooking.azurewebsites.net/ 
+* Project Page: https://dev.azure.com/ShinyBooking/ShinyBooking 
 
 ### Taco ERP
 Easy to use eCommerce organizer and booster to help you with your multichannel selling business.
-Project Page: https://dev.azure.com/PizzaDreams/Taco%20ERP 
+* Project Page: https://dev.azure.com/PizzaDreams/Taco%20ERP 
 
 ---
 
