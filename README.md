@@ -1,4 +1,4 @@
-# Pizza Dreams Software House
+# 🍕Pizza Dreams Software House
 
 ## Mission
 1. Help programming newbies get their first commercial project out there
@@ -18,7 +18,7 @@ Interested? Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLScD
 
 ---
 
-# Our Projests
+# 🍕 Pizza Dreams Projests
 
 ## Ongoing Projects
 
