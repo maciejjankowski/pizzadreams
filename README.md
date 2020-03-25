@@ -16,7 +16,11 @@
 
 Interested? Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLScDTujh8LOhypLDzJVvZvBDUsUpdzOwZkCekJIuqfqkOo2ONQ/viewform) and leave us at least your Name and Email, so we can send you invite to our Discord.
 
-## Ongoing projects
+---
+
+# Our Projests
+
+## Ongoing Projects
 
 ### Shiny Booking
 ShinyBooking is a .NET / Angular Web Application Project to connect Conference Rooms Tenants with Conference Rooms Owners.
@@ -27,12 +31,13 @@ ShinyBooking is a .NET / Angular Web Application Project to connect Conference R
 Easy to use eCommerce organizer and booster to help you with your multichannel selling business.
 * Project Page: https://dev.azure.com/PizzaDreams/Taco%20ERP 
 
+## Available Projects
+https://github.com/maciejjankowski/pizzadreams/wiki/Projects
+
 ---
 
+# Table of contents
 
+## [Backoffice](https://github.com/maciejjankowski/pizzadreams/milestone/2)
 
 ## [Rules](https://github.com/maciejjankowski/pizzadreams/wiki/Rules)
-
-## Available [Projects](https://github.com/maciejjankowski/pizzadreams/wiki/Projects)
-
-
