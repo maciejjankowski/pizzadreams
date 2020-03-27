@@ -14,6 +14,7 @@
 * Boost your GitHub & LinkedIn with a cool project!
 * Get help with the business side of your project!
 
+## Join us!
 Interested? Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLScDTujh8LOhypLDzJVvZvBDUsUpdzOwZkCekJIuqfqkOo2ONQ/viewform) and leave us at least your Name and Email, so we can send you invite to our Discord.
 
 ---
