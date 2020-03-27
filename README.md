@@ -17,7 +17,7 @@
 
 ## Sounds cool so far? Join us!
 👉 [Please fill this form](https://docs.google.com/forms/d/e/1FAIpQLScDTujh8LOhypLDzJVvZvBDUsUpdzOwZkCekJIuqfqkOo2ONQ/viewform) 👈
-Leave us at least your Name and Email, so we can send you invite to our Discord.
+and provide us at least your Name and Email, so we can send you invite to our Discord and give access to repos.
 
 ---
 
