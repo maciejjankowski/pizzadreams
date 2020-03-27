@@ -7,15 +7,16 @@
 4. Help kids, because helping kids is always good
 
 ## Why it's cool
-* Real-life projects!
+* Real-life projects with BUSINESS GOALS! 📈
 * Beautiful 🧚‍♀️ PREMIUM 🧚‍♀️ design for free!
-* Work with a Professional Product Owner™️ 👨‍💻
-* Get free 🍕 on Demo Day!
-* Boost your GitHub & LinkedIn with a cool project!
+* Work with a real and experienced Product Owner 👨‍💻
+* Learn all SCRUM roles and artifacts 🤓  
+* Get FREE 🍕🍕🍕 on Demo Day!
+* BOOST YOUR PORTFOLIO GitHub & LinkedIn with a cool project!
 * Get help with the business side of your project!
 
-## Join us!
-Interested? 👉 [Please fill this form](https://docs.google.com/forms/d/e/1FAIpQLScDTujh8LOhypLDzJVvZvBDUsUpdzOwZkCekJIuqfqkOo2ONQ/viewform) 👈
+## Sounds cool so far? Join us!
+👉 [Please fill this form](https://docs.google.com/forms/d/e/1FAIpQLScDTujh8LOhypLDzJVvZvBDUsUpdzOwZkCekJIuqfqkOo2ONQ/viewform) 👈
 Leave us at least your Name and Email, so we can send you invite to our Discord.
 
 ---
