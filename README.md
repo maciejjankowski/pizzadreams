@@ -23,6 +23,13 @@ and provide us at least your Name and Email, so we can send you invite to our Di
 
 # 🍕 Pizza Dreams Projests
 
+## [Projects To Takeaway](https://github.com/maciejjankowski/pizzadreams/wiki/Projects)
+If one of them sounds interesting, you can start working on it. [Please fill this form then.](https://docs.google.com/forms/d/e/1FAIpQLScDTujh8LOhypLDzJVvZvBDUsUpdzOwZkCekJIuqfqkOo2ONQ/viewform)
+
+
+### [Projects To Takeaway Notion.so](https://www.notion.so/plywoodandfriends/dd326091e0064640b4b7bce63f437bb0?v=e75e99d4aa624606bbf735527f5fc524)
+Same list but as interactive table on [Notion.so](https://www.notion.so/)
+
 ## Ongoing Projects
 
 ### Shiny Booking
@@ -36,14 +43,14 @@ Easy to use eCommerce organizer and booster to help you with your multichannel s
 * [Azure](https://dev.azure.com/PizzaDreams/Taco%20ERP)
 * [GitHub](https://github.com/maciejjankowski/pd-automatic-waffle)
 
-## [Available Projects](https://github.com/maciejjankowski/pizzadreams/wiki/Projects)
-Check our [list of available projects](https://github.com/maciejjankowski/pizzadreams/wiki/Projects). If one of them sounds interesting, 
-you can start working on it.
-
 ---
 
 # Table of contents
 
-## [Backoffice](https://github.com/maciejjankowski/pizzadreams/milestone/2)
+## [Wiki](https://github.com/maciejjankowski/pizzadreams/wiki/)
 
 ## [Rules](https://github.com/maciejjankowski/pizzadreams/wiki/Rules)
+
+
+## [Backoffice](https://github.com/maciejjankowski/pizzadreams/milestone/2)
+
