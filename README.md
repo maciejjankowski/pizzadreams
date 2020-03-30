@@ -15,7 +15,7 @@
 * BOOST YOUR PORTFOLIO GitHub & LinkedIn with a cool project!
 * Get help with the business side of your project!
 
-## Sounds cool so far? Join us!
+## Sounds cool so far? [Join us!](https://docs.google.com/forms/d/e/1FAIpQLScDTujh8LOhypLDzJVvZvBDUsUpdzOwZkCekJIuqfqkOo2ONQ/viewform)
 👉 [Please fill this form](https://docs.google.com/forms/d/e/1FAIpQLScDTujh8LOhypLDzJVvZvBDUsUpdzOwZkCekJIuqfqkOo2ONQ/viewform) 👈
 and provide us at least your Name and Email, so we can send you invite to our Discord and give access to repos.
 
@@ -36,7 +36,7 @@ Easy to use eCommerce organizer and booster to help you with your multichannel s
 * [Azure](https://dev.azure.com/PizzaDreams/Taco%20ERP)
 * [GitHub](https://github.com/maciejjankowski/pd-automatic-waffle)
 
-## Available Projects
+## [Available Projects](https://github.com/maciejjankowski/pizzadreams/wiki/Projects)
 Check our [list of available projects](https://github.com/maciejjankowski/pizzadreams/wiki/Projects). If one of them sounds interesting, 
 you can start working on it.
 
