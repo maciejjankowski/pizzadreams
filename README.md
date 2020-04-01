@@ -1,4 +1,5 @@
-# 🍕Pizza Dreams Software House
+# 🍕[Pizza Dreams Software House](https://www.notion.so/plywoodandfriends/Pizza-Dreams-56326159aff1491ca1d587b2519a65f9)
+
 
 ## Mission
 1. Help programming newbies get their first commercial project out there
@@ -21,4 +22,4 @@ and provide us at least your Name and Email, so we can send you invite to our Di
 
 ---
 
-# 🍕 [Pizza Projects](https://www.notion.so/plywoodandfriends/dd326091e0064640b4b7bce63f437bb0?v=e75e99d4aa624606bbf735527f5fc524)
+# 🍕 [Pizza Projects](https://www.notion.so/plywoodandfriends/Pizza-Dreams-56326159aff1491ca1d587b2519a65f9)
